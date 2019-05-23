@@ -13,4 +13,4 @@ gcc -o test_gnl main.o get_next_line.o -L libft/ -lft
 
 ./test_gnl digit6 str4lines3
 
-The file in "submit" folder has been modified for norm.
+The files in "submit" folder have been modified for norm.
