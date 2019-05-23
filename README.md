@@ -1,7 +1,7 @@
 # get_next_line
 main.c / digit6 /str4lines3 is for the test
 
-test command:
+test commands:
 
 make -C libft/ fclean && make -C libft/ 
 
